@@ -1,5 +1,6 @@
 # Aspirator3D
-3Dプリンタで作るアスピレータです。  
+3Dプリンタで作るアスピレータです。 
+<img src="img/sectional_view.png" width="500">   
 <img src="img/top.jpg" width="500">  
 
 
